@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # eml2text
+#
 # v0.1
 #
 # takes the name of an eml file as its only argument
