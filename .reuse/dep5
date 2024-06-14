@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: eml2text
+Upstream-Contact: Erik Ben Heckman <erik@heckman.ca>
+
+Files: *
+Copyright: 2023 Erik Ben Heckman <erik@heckman.ca>
+License: MIT
+
+Files: */tests/fixtures/*
+Source: https://github.com/mikel/mail/tree/d419a9ebf5f6117dd52ef5ade13d0917c0e8736a/spec/fixtures
+Copyright: 2009-2016 Mikel Lindsaar
+License: MIT
+
